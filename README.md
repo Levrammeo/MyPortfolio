@@ -1,2 +1,2 @@
-# MyPortfolio
-My projects and practical labs
+# MyCybersecurityPortfolio
+My Cybersecurity projects and practical labs
