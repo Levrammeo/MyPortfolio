@@ -6,6 +6,7 @@ This repository contains my cybersecurity projects, labs, and practical exercise
 - Vulnerability Assessment
 - Network Security
 - Network Analysis
+- SOC Analyst
 
 ## Tools
 - Kali linux
