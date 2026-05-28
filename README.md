@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-This repository contains my cybersecurity projects, labs, and practical exercises.
+This repository contains the overview of my cybersecurity projects, labs, and security assessments completed during my continuos cybersecurity training and self-learning journey. Do well to explore each of the projects to have the deep insights on my journey thus far.
 
 ## Skills
 - Vulnerability Assessment
@@ -14,6 +14,7 @@ This repository contains my cybersecurity projects, labs, and practical exercise
 - Wiresharks
 
 ## Projects
-1. Network Vulnerability Assessment Lab
-2. Web Application Security Testing
-3. SIEM Log Monitoring Project
+1. DNS-Incident-Report
+2. SYN-Flood-DoS-Attack
+3. Controls-Compliance-Audit
+
