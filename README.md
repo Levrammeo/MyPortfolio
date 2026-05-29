@@ -8,6 +8,7 @@ This repository contains the overview of my cybersecurity projects, labs, and se
 - Vulnerability Assessment
 - Network Security
 - Network Analysis
+- Security Analyst
 - SOC Analyst
 
 ## Tools
